@@ -1,0 +1,15 @@
+# Core dependencies for Zalo AI Challenge 2025 - AeroEyes
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=10.0.0
+
+# Optional for GPU acceleration
+# onnxruntime-gpu>=1.16.0  # Uncomment if using ONNX with GPU
+# tensorrt>=8.6.0  # Uncomment if using TensorRT
+
+# Additional utilities
+tqdm>=4.65.0
+PyYAML>=6.0
