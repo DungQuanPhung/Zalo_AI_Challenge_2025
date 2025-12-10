@@ -206,14 +206,3 @@ docker run --rm zalo-aeroeyes:v1 ls -la /app/*.pt
 # Hoặc tăng GPU memory limit
 docker run --gpus all --shm-size=8g ...
 ```
-
-## 📞 Liên hệ
-- **Team**: [Tên team của bạn]
-- **Email**: [Email của bạn]
-- **GitHub**: [Link GitHub của bạn]
-
-## 📜 License
-MIT License
-
----
-**Chúc may mắn với cuộc thi Zalo AI Challenge 2025! 🚀**
