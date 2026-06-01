@@ -1,0 +1,18 @@
+# data.yaml
+train: ./dataset/images/train
+val: ./dataset/images/val
+
+nc: 10 # THAY ĐỔI: Số lớp (Đếm số lớp trong tên bên dưới)
+
+# THAY ĐỔI: Tên các lớp (Thứ tự này CỰC KỲ quan trọng)
+names: 
+  - backpack  # ID lớp = 0
+  - jacket  # ID lớp = 1
+  - laptop    # ID lớp = 2
+  - lifering  # ID lớp = 3
+  - mobilephone
+  - person1
+  - waterbottle
+  - blackbox
+  - cardboardbox
+  - lifejacket
